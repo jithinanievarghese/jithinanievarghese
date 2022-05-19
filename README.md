@@ -1,2 +1,2 @@
-- 👋 Hi, I’m jithin varghese
+- 👋 Hi, I’m Jithin Varghese
 -Python Developer
